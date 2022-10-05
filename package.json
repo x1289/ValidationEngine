@@ -1,0 +1,20 @@
+{
+  "name": "validationengine",
+  "version": "1.0.0",
+  "description": "My own implementation of the bitcoin client validation part",
+  "main": "./src/ValidationEngine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x1289/ValidationEngine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x1289/ValidationEngine/issues"
+  },
+  "homepage": "https://github.com/x1289/ValidationEngine#readme"
+}
